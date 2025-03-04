@@ -1,0 +1,32 @@
+[
+  {
+    "key": "Accept",
+    "content": "Step 1 – Once the journal accepts your article, you will receive an email containing a link to the “post acceptance author journey”."
+    "order": 1,
+    "icon_url": "https://eci.elsevier.cn/webpic/image/20230512/20230512143501.png"
+  },
+  {
+    "key": "Review",
+    "content": "Step 2 – You will be asked to review your affiliation and funder details. Based on this information, you will see personalised publishing options including the option to publish under the agreement.",
+    "order": 2,
+    "icon_url": "https://eci.elsevier.cn/webpic/image/20230512/20230512143150.png"
+  },
+  {
+    "key": "Confirm",
+    "content": "Step 3 – You will confirm your publishing choices and complete the post acceptance journey.",
+    "order": 3,
+    "icon_url": "https://eci.elsevier.cn/webpic/image/20230512/20230512143244.png"
+  },
+  {
+    "key": "Validate",
+    "content": "Step 4 – Your institution will validate your eligibility for the agreement",
+    "order": 4,
+    "icon_url": "https://eci.elsevier.cn/webpic/image/20230512/20230512143343.png"
+  },
+  {
+    "key": "Publish",
+    "content": "Step 5 – When publishing in subscription (hybrid) journals, you and your co-authors will receive an email to confirm that the APC will be covered by the agreement.",
+    "order": 5,
+    "icon_url": "https://eci.elsevier.cn/webpic/image/20230512/20230512143547.png"
+  }
+]

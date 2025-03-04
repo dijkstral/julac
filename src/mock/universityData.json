@@ -1,0 +1,51 @@
+[
+  {
+    "title": "The Chinese University of Hong Kong",
+    "description": "The Chinese University of Hong Kong Library is a leading research library in Asia. We have a significant bilingual collection of electronic and print resources. Our Special Collections ranging from Shang dynasty oracle bones to modern Chinese literary archives. We also have inspirational and award-winning study spaces and a team of library staff committed to helping you make the best use of the Library.",
+    "nameEngAbbr": "CUHK",
+    "libraryUrl": "https://www.lib.cuhk.edu.hk/sc/",
+    "page": "default"
+  },
+  {
+    "title": "City University of Hong Kong",
+    "description": "In line with the University’s mission to nurture and develop the talents of students and to create applicable knowledge, the Library endeavours to support and augment learning, teaching and research by providing an environment conducive to studying and offering seamless access to the diverse, up-to-date and high-quality resources. It delivers effective and value-added services and actively encourages and facilitates use of the space, collections and services critical to the success of students and faculty.",
+    "nameEngAbbr": "CityU",
+    "libraryUrl": "https://www.cityu.edu.hk/lib/",
+    "page": "default"
+  },
+  {
+    "title": "The Education University of Hong Kong",
+    "description": "The Library will become the key venue and platform for learning, teaching, research and knowledge exchange of a leading university in the Asia Pacific region and beyond with a focus on educational research, development and innovation. The Library will achieve excellence in information resources, services and infrastructure. Through its innovation and utilization of all available resources, the Library will contribute to research, scholarship and professional development in Education and complementary disciplines.",
+    "nameEngAbbr": "EdUHK",
+    "libraryUrl": "https://www.lib.eduhk.hk/",
+    "page": "EdUHK"
+  },
+  {
+    "title": "Hong Kong Baptist University",
+    "description": "The University Library is committed to providing quality resources and services in support of the University’s teaching, research, and learning activities. HKBU librarians engage in teaching and instruction, providing learning opportunities that students do not receive in their regular classes. These are crucial to student success in academia and in the workplace.",
+    "nameEngAbbr": "HKBU",
+    "libraryUrl": "https://library.hkbu.edu.hk/",
+    "page": "default"
+  },
+  {
+    "title": "The Hong Kong Polytechnic University",
+    "description": "As the learning hub of the University and a dynamic scholarly gateway, the Library strives to facilitate and inspire students and faculty to acquire, create and share knowledge and to excel through education and scholarship.",
+    "nameEngAbbr": "PolyU",
+    "libraryUrl": "https://www.lib.polyu.edu.hk/",
+    "page": "default"
+  },
+  {
+    "title": "Lingnan University",
+    "description": "Lingnan University is known for its long tradition in providing high-quality liberal arts education. The Library strives to become the learning hub and intellectual heart of the University to support our student's and staff’s learning and research journey in the University. We are committed to providing our students, faculty, alumni and all our stakeholders with rich resources, innovative services, diverse facilities and inspiring space to advance the strategic priorities of the University and your pursuits in the University.",
+    "nameEngAbbr": "Lingnan",
+    "libraryUrl": "https://library.ln.edu.hk/",
+    "page": "lingnan"
+  },
+  {
+    "title": "The University of Hong Kong",
+    "description": "The University of Hong Kong Libraries is an essential part of the educational facilities provided to you by the University. The Libraries lends itself to the three pillars of the University's vision for Teaching and Learning, Research, and Knowledge Exchange through its outstanding resources, people-centred services as well as its innovative and collaborative approaches.",
+    "nameEngAbbr": "HKU",
+    "libraryUrl": "https://lib.hku.hk/",
+    "page": "default"
+  }
+]

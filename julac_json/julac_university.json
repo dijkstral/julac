@@ -1,0 +1,72 @@
+[
+  {
+    "name_eng": "The University of Hong Kong",
+    "name_eng_abbr": "HKU",
+    "name_chn": "香港大学",
+    "description": "The University of Hong Kong Libraries is an essential part of the educational facilities provided to you by the University. The Libraries lends itself to the three pillars of the University's vision for Teaching and Learning, Research, and Knowledge Exchange through its outstanding resources, people-centred services as well as its innovative and collaborative approaches.",
+    "index_url": "https://www.hku.hk/",
+    "library_about_url": "https://lib.hku.hk/general/abouthkul/index.html",
+    "library_url": "https://lib.hku.hk/",
+    "order": 1
+  },
+  {
+    "name_eng": "The Chinese University of Hong Kong",
+    "name_eng_abbr": "CUHK",
+    "name_chn": "香港中文大学",
+    "description:": "The Chinese University of Hong Kong Library is a leading research library in Asia. We have a significant bilingual collection of electronic and print resources. Our Special Collections ranging from Shang dynasty oracle bones to modern Chinese literary archives. We also have inspirational and award-winning study spaces and a team of library staff committed to helping you make the best use of the Library.",
+    "index_url": "https://www.cuhk.edu.hk/english/",
+    "library_about_url": "https://www.lib.cuhk.edu.hk/sc/about/",
+    "library_url": "https://www.lib.cuhk.edu.hk/sc/",
+    "order": 2
+  },
+  {
+    "name_eng": "City University of Hong Kong",
+    "name_eng_abbr": "CityU",
+    "name_chn": "香港城市大学",
+    "description:": "In line with the University’s mission to nurture and develop the talents of students and to create applicable knowledge, the Library endeavours to support and augment learning, teaching and research by providing an environment conducive to studying and offering seamless access to the diverse, up-to-date and high-quality resources. It delivers effective and value-added services and actively encourages and facilitates use of the space, collections and services critical to the success of students and faculty.",
+    "index_url": "https://www.cityu.edu.hk/zh-cn",
+    "library_about_url": "https://www.cityu.edu.hk/lib/about/intro.htm",
+    "library_url": "https://www.cityu.edu.hk/lib/",
+    "order": 3
+  },
+  {
+    "name_eng": "The Hong Kong Polytechnic University",
+    "name_eng_abbr": "PolyU",
+    "name_chn": "香港理工大学",
+    "description:": "As the learning hub of the University and a dynamic scholarly gateway, the Library strives to facilitate and inspire students and faculty to acquire, create and share knowledge and to excel through education and scholarship.",
+    "index_url": "https://www.polyu.edu.hk/",
+    "library_url": "https://www.lib.polyu.edu.hk/",
+    "library_about_url": "https://www.lib.polyu.edu.hk/about-us/library/",
+    "order": 4
+  },
+  {
+    "name_eng": "Hong Kong Baptist University",
+    "name_eng_abbr": "HKBU",
+    "name_chn": "香港浸会大学",
+    "description:": "HKBU Library advances research excellence through expert support and innovative services that maximize scholarly impact. Through its commitment to open scholarship, the Library empowers HKBU researchers to reach global audiences and accelerate the pace of discovery. Its experienced team develops focused collections and provides specialized guidance to enhance research visibility and engagement. The Library actively champions open access initiatives while fostering an environment where knowledge flows freely across disciplinary boundaries.",
+    "index_url": "https://www.hkbu.edu.hk/zh_cn.html",
+    "library_url": "https://library.hkbu.edu.hk/",
+    "library_about_url": "https://library.hkbu.edu.hk/about-us/",
+    "order": 5
+  },
+  {
+    "name_eng": "The Education University of Hong Kong",
+    "name_eng_abbr": "EdUHK",
+    "name_chn": "香港教育大学",
+    "description:": "The Library will become the key venue and platform for learning, teaching, research and knowledge exchange of a leading university in the Asia Pacific region and beyond with a focus on educational research, development and innovation. The Library will achieve excellence in information resources, services and infrastructure. Through its innovation and utilization of all available resources, the Library will contribute to research, scholarship and professional development in Education and complementary disciplines.",
+    "index_url": "https://www.eduhk.hk/en/",
+    "library_url": "https://www.lib.eduhk.hk/",
+    "library_about_url": "https://www.lib.eduhk.hk/about/vision-mission",
+    "order": 6
+  },
+  {
+    "name_eng": "Lingnan University",
+    "name_eng_abbr": "Lingnan",
+    "name_chn": "香港岭南大学",
+    "description:": "Lingnan University is known for its long tradition in providing high-quality liberal arts education. The Library strives to become the learning hub and intellectual heart of the University to support our student's and staff’s learning and research journey in the University. We are committed to providing our students, faculty, alumni and all our stakeholders with rich resources, innovative services, diverse facilities and inspiring space to advance the strategic priorities of the University and your pursuits in the University.",
+    "index_url": "https://www.ln.edu.hk/",
+    "library_url": "https://library.ln.edu.hk/",
+    "library_about_url": "https://library.ln.edu.hk/en/about/intro/cio",
+    "order": 7
+  }
+]

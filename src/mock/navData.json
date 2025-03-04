@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Elsevier Open Access",
+    "link": "https://www.elsevier.com/open-access",
+    "active": false
+  },
+  {
+    "title": "Elsevier Open Access Platform",
+    "link": "https://oap.elsevier.com/s/",
+    "active": false
+  },
+  {
+    "title": "About ScienceDirect",
+    "link": "https://www.sciencedirect.com/",
+    "active": true
+  }
+]
